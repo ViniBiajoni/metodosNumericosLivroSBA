@@ -1,3 +1,3 @@
-# Métodos Numéricos Livro SBA
+# Computação Numérica: Métodos e Implementações
 
-Este repositório diz respeito ao livro Computação Numérica: Métodos e Implementações.
+Este repositório diz respeito ao programas Scilab e Python apresentados neste livro.
