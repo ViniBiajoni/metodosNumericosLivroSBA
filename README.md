@@ -1,3 +1,3 @@
-# Métodos Numéricos LivroSBA
+# Métodos Numéricos Livro SBA
 
-Este repositório diz respeito ao livro XXX
+Este repositório diz respeito ao livro Computação Numérica: Métodos e Implementações.
