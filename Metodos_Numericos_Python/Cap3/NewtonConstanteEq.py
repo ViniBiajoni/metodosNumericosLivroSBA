@@ -1,6 +1,6 @@
 #Programa do Método de Newton Constante
 
-#Algotirmo Apresentado no livro (texto página 78)
+#Algoritmo Apresentado no livro (texto página 78)
 #Exemplo 3.6:
 # Valor inicial do processo iterativo: 1
 # Valor inicial da tolerância: 0.0000005 
